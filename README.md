@@ -45,4 +45,5 @@ GPLv2, inherited from the Linux kernel. See the [`COPYING`](COPYING) file for th
 
 - LineageOS team & the smdk4412 maintainers
 - **adamoutler** — original EK-GC100 kernel source
-- **tubbohere & Treammc** — gd1wifi bring-up and s6d6aa1 panel fix
+- **tubbohere** — gd1wifi bring-up and s6d6aa1 panel fix
+- **Treammc** — providing the github repo space
